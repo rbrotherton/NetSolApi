@@ -7,11 +7,11 @@ This class is an incomplete interface for the NetSol API.  Only basic functional
 
 Requirements
 ----------------
-PHP 5+ (Untested on 4.x, may work)
-cURL PHP extension
-NetSol API version 6.8
+- PHP 5+ (Untested on 4.x, may work)
+- cURL PHP extension
+- NetSol API version 6.8
 
 Usage
 ----------------
-See example_usage.php
-For other methods look at the class
+- See example_usage.php
+- For other methods look at the class

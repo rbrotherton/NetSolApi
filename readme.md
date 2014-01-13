@@ -3,7 +3,7 @@ Network Solutions (NetSol) API Class
 
 What
 ----------------
-This class is an incomplete interface for the NetSol API.  Only basic functionality exists such as customer creation, domain registration retrieval, etc.
+This class is an incomplete interface for the NetSol XML API.  Only basic functionality exists such as customer creation, domain registration retrieval, etc.
 
 Requirements
 ----------------

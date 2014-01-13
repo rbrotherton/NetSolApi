@@ -22,5 +22,5 @@
 		$domain_name = trim($domain->DomainName);	
 		echo $domain_name . "<br />";
 	}
-
+ 
 ?>
